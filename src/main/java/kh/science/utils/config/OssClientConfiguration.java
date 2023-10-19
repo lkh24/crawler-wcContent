@@ -13,21 +13,21 @@ public class OssClientConfiguration {
     /**
      * 公网地址
      */
-    String endpoint = "https://oss-cn-beijing.aliyuncs.com";
+    String endpoint = "";
 
     /**
      * AccessKey
      */
-    String accessKeyId = "LTAI5t81UM4avZFMgMczJah4";
+    String accessKeyId = "";
 
     /**
      * KeySecret
      */
-    String accessKeySecret = "1h98uFnEICgGBFpSzgfVPxyPwfjbbK";
+    String accessKeySecret = "";
 
     /**
      * bucket名
      */
-    String bucketName = "oss-xmls";
+    String bucketName = "";
 
 }

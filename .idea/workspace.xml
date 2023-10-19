@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f99b2a7-331b-4e42-b5b3-b6ad2d26dba2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/GetUseSchoolContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/dao/WebSchoolContentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/dao/WebSchoolContentDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/entity/AppMsgItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/entity/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/entity/LikeItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/entity/UseSchoolItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/mapper/ContentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/utils/UploadUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/utils/config/OssClientConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kh/science/utils/config/RequestConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f99b2a7-331b-4e42-b5b3-b6ad2d26dba2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697678038945</updated>
-      <workItem from="1697678040559" duration="4160000" />
+      <workItem from="1697678040559" duration="5090000" />
     </task>
     <servers />
   </component>
