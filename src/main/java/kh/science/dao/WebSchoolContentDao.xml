@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kh.science.dao.WebSchoolContentDao">
+    <insert id="batchInsert" parameterType="java.util.List">
+        INSERT INTO content (href, title, img, time, view, content, id) VALUES
+        <foreach collection="list" item="item" separator=",">
+            (#{item.Href}, #{item.Title}, #{item.Img}, #{item.time}, #{item.view}, #{item.content}, #{item.id})
+        </foreach>
+    </insert>
+    <select id="finAll" resultType="kh.science.entity.Content">
+        SELECT * FROM content
+    </select>
+</mapper>
